@@ -1,1 +1,14 @@
-
+Microsoft Word (Text) = doc, docx, docm, dot, dotm, dotx, xml
+Microsoft Excel (Spreadsheet) = csv, dif, ods, xls, xlsm, xlsb, xlsx, xltx, xml, xps
+Microsoft PowerPoint (Presentation) = pot, potm, potx, ppa, ppam, pps, ppsm, ppsx, ppt, pptm, pptx
+OpenDocument (Text) = odt
+PDF (Text) = pdf
+RichTextFormat (Text) = rtf
+Text (Text) = txt
+JPG (Image) = jpg
+JPEG (Image) = jpeg
+PNG (Image) = png
+Gif (Animated Image) = gif
+WMV (Audio) = wmv
+MP4 (Video) = mp4
+MP3 (Audio) = mp3
